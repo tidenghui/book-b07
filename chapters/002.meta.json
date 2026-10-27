@@ -1,0 +1,51 @@
+{
+  "n": 2,
+  "title": "价目表",
+  "status": "accepted",
+  "wordCount": 2370,
+  "summary": "赵拾与林霜讨价还价，用两块灵石加三天抄表换得后天卯正第二峰一场雷灰的消息，并发现档期表上青霜宗一栏有改期未报。当夜他核出体内雷灰只剩四道半，比清晨少了一道，决定下次多吸半份以补折耗。",
+  "coldRead": {
+    "votes": 3,
+    "total": 3,
+    "notes": [
+      "老书虫：继续 — 账算得够细，少掉的那一道却被他硬塞进潮灰里，这份自欺比雷灰本身更让我想看下去。",
+      "通勤读者：继续 — 前面讨价还价太磨叽，差点划走，后面凭空少一道那下才来劲",
+      "解谜读者：继续 — 把雷灰当账本算损耗、拿抄表换消息的修真界打工人，比打斗有意思多了，就是改期表那条线铺得有点黏手"
+    ]
+  },
+  "critics": [
+    {
+      "name": "连续性编辑",
+      "score": 5,
+      "verdict": "revise",
+      "defects": 6
+    },
+    {
+      "name": "角色一致性",
+      "score": 5,
+      "verdict": "revise",
+      "defects": 6
+    },
+    {
+      "name": "节奏编辑",
+      "score": 6,
+      "verdict": "revise",
+      "defects": 6
+    },
+    {
+      "name": "逻辑审查",
+      "score": 6,
+      "verdict": "revise",
+      "defects": 6
+    },
+    {
+      "name": "文风审查",
+      "score": 4,
+      "verdict": "revise",
+      "defects": 5
+    }
+  ],
+  "revisions": 0,
+  "costCny": 0.497,
+  "createdAt": "2026-10-25T06:56:25.043Z"
+}

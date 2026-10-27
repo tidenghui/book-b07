@@ -1,0 +1,51 @@
+{
+  "n": 1,
+  "title": "蹲点",
+  "status": "accepted",
+  "wordCount": 2507,
+  "summary": "赵拾在渡劫台石缝收雷灰，折足后应得六道却只收到五道半，怀疑有折耗。回杂役院被林霜拦下报数，得知郑监正翻账查雷纹，遂以三块灵石为价替林霜守一夜台子。回砖房被孙婆追讨十块冰髓膏钱，孙婆只给半盒药并限三日还钱，赵拾在墙上雷账下记下“折耗一成”。",
+  "coldRead": {
+    "votes": 3,
+    "total": 3,
+    "notes": [
+      "老书虫：继续 — 雷灰、账目和穷困都写得具体，悬念也落在实处；就是半章都在反复核账，读到后面有点磨人。",
+      "通勤读者：继续 — 一个缺半截手指的穷鬼数灰数到让人跟着急，账算得比雷还响",
+      "解谜读者：继续 — 记账式修仙，抠得让人牙酸，但那个半道窟窿我确实想追下去"
+    ]
+  },
+  "critics": [
+    {
+      "name": "连续性编辑",
+      "score": 6,
+      "verdict": "revise",
+      "defects": 6
+    },
+    {
+      "name": "角色一致性",
+      "score": 6,
+      "verdict": "revise",
+      "defects": 6
+    },
+    {
+      "name": "节奏编辑",
+      "score": 6,
+      "verdict": "revise",
+      "defects": 6
+    },
+    {
+      "name": "逻辑审查",
+      "score": 6,
+      "verdict": "revise",
+      "defects": 6
+    },
+    {
+      "name": "文风审查",
+      "score": 6,
+      "verdict": "revise",
+      "defects": 6
+    }
+  ],
+  "revisions": 1,
+  "costCny": 0.949,
+  "createdAt": "2026-10-25T06:54:12.399Z"
+}

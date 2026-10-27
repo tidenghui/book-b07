@@ -1,0 +1,66 @@
+[
+  {
+    "id": "g1-1",
+    "text": "赵拾收灰少半道，怀疑有折耗，在墙上记下“折耗一成”，原因未查明",
+    "plantedAt": 1,
+    "dueBy": 10,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g1-2",
+    "text": "孙婆说赵拾丹田“塞进去也是漏”，赵拾追问“哪里不干净”被岔开",
+    "plantedAt": 1,
+    "dueBy": 15,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g2-1",
+    "text": "青霜宗档期表上有一处改期未报天梯监，赵拾发现时辰会撞，林霜不让他抄那一处。",
+    "plantedAt": 2,
+    "dueBy": 12,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g2-2",
+    "text": "赵拾体内雷灰无故少了一道，他归因于上次雨后收灰掺潮，但未查明真正原因。",
+    "plantedAt": 2,
+    "dueBy": 10,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g3-1",
+    "text": "郑监正账册背面朱笔圈旁的姓名下半截被挡住，未确认是谁。",
+    "plantedAt": 3,
+    "dueBy": 10,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g3-2",
+    "text": "孙婆说“账上别留尾巴”，所指不明。",
+    "plantedAt": 3,
+    "dueBy": 8,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g4-1",
+    "text": "赵拾要在卯正前找林霜翻黄纸卷原卷，逐场核对收灰日子，包括她不让抄的刮痕。",
+    "plantedAt": 4,
+    "dueBy": 8,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g4-2",
+    "text": "赵拾墙上记的五笔与身上四道不符，多出的一笔可能成为郑监正手里的把柄。",
+    "plantedAt": 4,
+    "dueBy": 8,
+    "paidAt": null,
+    "importance": 2
+  }
+]
